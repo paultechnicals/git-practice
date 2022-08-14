@@ -1,4 +1,9 @@
 git demo for pull
 entering new line
 date: 14/08/2022
+<<<<<<< HEAD
 new commit for pull
+=======
+type: demo
+organization: Youtube
+>>>>>>> 70b58166d2b3a4e57c18831e3156fbe220c3dca3
