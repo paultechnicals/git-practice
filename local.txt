@@ -1,8 +1,0 @@
-Name: Paul Technicals
-Organization: YouTube Channel
-Type: educational
-<<<<<<< HEAD
-designation: system admin
-=======
-date: 14/08/2022
->>>>>>> f673af9f8c5cddfbf1c66913ff37647f1c7b2afa
