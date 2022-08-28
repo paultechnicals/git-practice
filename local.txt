@@ -6,3 +6,4 @@ organization: Youtube
 Channel Name: Paul Technicals
 new entry on 29th August 2022
 Company: Educational
+Location: Banaglore
